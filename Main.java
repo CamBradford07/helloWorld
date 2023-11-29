@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Seaver is cool");
         System.out.println("hi");
         System.out.println("Hello");
+      System.out.println("Im on replit");
     }
 }
